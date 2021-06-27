@@ -2,7 +2,7 @@
 
 # #simuladorBuscadorAuto
 
-### [Simulador de Emails]()
+### [Simulador de Buscador de compra de autos]()
 
 Proyecto carritoCompras: trabajado desde Udemy - El proyecto viene con una estructura armada en html y css - 
          Solo se implementa js. 
