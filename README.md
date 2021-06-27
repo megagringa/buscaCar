@@ -2,7 +2,7 @@
 
 # #simuladorBuscadorAuto
 
-### [Simulador de Buscador de compra de autos](https://megagringa.github.io/buscaCar/index.html)
+### [Simulador de Buscador autos](https://megagringa.github.io/buscaCar/index.html)
 
 Proyecto carritoCompras: trabajado desde Udemy - El proyecto viene con una estructura armada en html y css - 
          Solo se implementa js. 
@@ -18,4 +18,4 @@ Proyecto carritoCompras: trabajado desde Udemy - El proyecto viene con una estru
     - Proyecto de práctica para mejorar skills.
     
 - **Proyecto**:
-    - Simulador de buscador de compra de autos.
+    - Simulador de buscador autos.
